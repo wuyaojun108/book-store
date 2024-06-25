@@ -1,6 +1,6 @@
 # 简介
 
-书城项目，主要使用的技术是servlet、jsp，部署在tomcat智商
+书城项目，主要使用的技术是servlet、jsp，部署在tomcat之上
 
 
 项目启动：mvn tomcat7:run
